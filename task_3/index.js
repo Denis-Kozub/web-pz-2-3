@@ -1,6 +1,6 @@
 const table = document.querySelector(".table");
 
-let symbols = ["A", "B", "C", "D", "E", "F", "G",];
+let symbols = ["A", "B", "C", "D", "E", "F", "G","H"];
 
 for (let i = 0; i < 9; i++) {
     const row = document.createElement("div");
